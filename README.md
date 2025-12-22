@@ -211,7 +211,7 @@ MIT License
 
 ## 作者
 
-CogniLink 项目
+Xihao Yang
 
 ---
 
