@@ -1,6 +1,20 @@
 # CogniLink - 智能书签和知识管理系统
 
-CogniLink 是一个功能强大的客户端书签和知识管理系统，完全运行在浏览器中，使用 IndexedDB 进行数据存储。
+
+CogniLink is a powerful client-side bookmark and knowledge management system that runs entirely in the browser and uses IndexedDB for data storage.
+
+## Project Description
+
+This project is implemented as part of the course requirements.
+The repository contains source code and materials related to the CogniLink project.
+
+## Notes
+
+This repository is intended for **educational purposes only**.
+
+## Disclaimer
+
+This project is not intended as a research prototype or a production system.
 
 ## 功能特性
 
@@ -144,14 +158,14 @@ interface Tag {
 }
 ```
 
-## 使用说明
+## Usage Guide
 
-### 添加书签
+### Adding a Bookmark
 
-1. 点击右上角"添加书签"按钮
-2. 填写书签信息（标题、URL 为必填项）
-3. 可选：添加描述、备注、分类和标签
-4. 点击"添加"保存
+1. Click the “Add Bookmark” button in the top-right corner
+2. Fill in the bookmark details (Title and URL are required)
+3. Optional: add description, notes, category, and tags
+4. Click “Add” to save
 
 ### 搜索书签
 
