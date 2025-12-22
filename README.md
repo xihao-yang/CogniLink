@@ -1,5 +1,4 @@
-# CogniLink - 智能书签和知识管理系统
-
+# CogniLink - Intelligent Bookmark and Knowledge Management System
 
 CogniLink is a powerful client-side bookmark and knowledge management system that runs entirely in the browser and uses IndexedDB for data storage.
 
