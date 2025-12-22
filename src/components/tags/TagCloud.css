@@ -1,0 +1,61 @@
+.tag-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.tag-cloud-item {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  position: relative;
+}
+
+.tag-cloud-tag {
+  padding: 0.5rem 1rem;
+  background-color: #e5e7eb;
+  color: #374151;
+  border: none;
+  border-radius: 16px;
+  font-size: 0.875rem;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.tag-cloud-tag:hover {
+  background-color: #d1d5db;
+}
+
+.tag-cloud-tag.active {
+  background-color: #3b82f6;
+  color: white;
+}
+
+.tag-cloud-delete {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: none;
+  border: none;
+  color: #ef4444;
+  font-size: 1.25rem;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0.25rem;
+  border-radius: 4px;
+  transition: background-color 0.2s;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+.tag-cloud-delete:hover {
+  background-color: #fee2e2;
+}
+
+.tag-cloud-empty {
+  text-align: center;
+  color: #6b7280;
+  font-size: 0.875rem;
+  padding: 2rem;
+}
+
