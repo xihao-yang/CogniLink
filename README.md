@@ -17,8 +17,8 @@ This project is not intended as a research prototype or a production system.
 
 ## 功能特性
 
-- 📚 **智能书签管理** - 添加、编辑、删除和组织书签
-- 🔍 **全文搜索** - 自定义倒排索引实现快速全文搜索
+- 📚 **Intelligent Bookmark Management** - Add, edit, delete, and organize bookmarks
+- 🔍 **Full-Text Search** - 自定义倒排索引实现快速全文搜索
 - 🏷️ **标签系统** - 使用标签对书签进行分类和组织
 - 📁 **分类管理** - 创建和管理书签分类
 - ⭐ **收藏功能** - 标记和筛选收藏的书签
@@ -26,13 +26,13 @@ This project is not intended as a research prototype or a production system.
 - 💾 **客户端存储** - 所有数据存储在浏览器 IndexedDB 中
 - 🎨 **现代化UI** - 美观且响应式的用户界面
 
-## 技术栈
+## Tech Stack
 
-- **React 18+** - 用于构建用户界面
-- **TypeScript** - 提供类型安全
-- **IndexedDB** - 客户端数据持久化
-- **Vite** - 构建工具和开发服务器
-- **自定义搜索索引** - 倒排索引实现全文搜索
+- **React 18+** - UI framework
+- **TypeScript** - Type safety and maintainability
+- **IndexedDB** - Client-side persistent storage
+- **Vite** - Build tool and development server
+- **Custom Search Index** - Inverted index–based full-text search implementation
 
 ## 项目结构
 
