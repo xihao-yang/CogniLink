@@ -59,15 +59,15 @@ CogniLink/
 └── vite.config.ts
 ```
 
-## 安装和运行
+## Installation and Running
 
-### 安装依赖
+### Install Dependencies
 
 ```bash
 npm install
 ```
 
-### 开发模式
+### Development Mode
 
 ```bash
 npm run dev
