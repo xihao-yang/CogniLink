@@ -18,13 +18,13 @@ This project is not intended as a research prototype or a production system.
 ## 功能特性
 
 - 📚 **Intelligent Bookmark Management** - Add, edit, delete, and organize bookmarks
-- 🔍 **Full-Text Search** - 自定义倒排索引实现快速全文搜索
-- 🏷️ **标签系统** - 使用标签对书签进行分类和组织
-- 📁 **分类管理** - 创建和管理书签分类
-- ⭐ **收藏功能** - 标记和筛选收藏的书签
-- 📦 **归档功能** - 归档不需要的书签
-- 💾 **客户端存储** - 所有数据存储在浏览器 IndexedDB 中
-- 🎨 **现代化UI** - 美观且响应式的用户界面
+- 🔍 **Full-Text Search** - High-performance full-text search via a custom inverted index
+- 🏷️ **标签系统** - Categorize and organize bookmarks with tags
+- 📁 **分类管理** - Create and manage bookmark categories
+- ⭐ **收藏功能** - Mark and filter favorite bookmarks
+- 📦 **归档功能** - Archive bookmarks that are no longer needed
+- 💾 **客户端存储** - All data is stored in the browser via IndexedDB
+- 🎨 **现代化UI** - A clean, responsive user interface
 
 ## Tech Stack
 
