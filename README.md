@@ -73,46 +73,46 @@ npm install
 npm run dev
 ```
 
-应用将在 http://localhost:5173 启动
+The application will start at http://localhost:5173
 
-### 构建生产版本
+### Build for Production
 
 ```bash
 npm run build
 ```
 
-### 预览生产版本
+### Preview the Production Build
 
 ```bash
 npm run preview
 ```
 
-## 核心功能实现
+## Core Implementation
 
 ### 1. IndexedDB 数据管理
 
-- 数据库架构设计
-- 异步事务处理
-- 数据迁移支持
-- 数据导入导出
+- Database schema design
+- Asynchronous transaction handling
+- Data migration support
+- Data import/export
 
-### 2. 自定义搜索索引
 
-- 倒排索引实现
-- 中英文分词
-- TF-IDF 评分算法
-- 多字段搜索
+### 2. Custom Search Index
 
-### 3. React 组件架构
+- Inverted index implementation
+- Chinese/English tokenization
+- TF-IDF scoring
+- Multi-field search
 
-- 25+ 功能组件
-- Context API 状态管理
-- 自定义 Hooks
-- 响应式设计
+### 3. React Component Architecture
+- 25+ functional components25+ 功能组件
+- State management via Context API
+- Custom Hooks
+- Responsive design
 
-## 数据模型
+## Data Model
 
-### Bookmark (书签)
+### Bookmark
 
 ```typescript
 interface Bookmark {
@@ -130,7 +130,7 @@ interface Bookmark {
 }
 ```
 
-### Category (分类)
+### Category 
 
 ```typescript
 interface Category {
@@ -145,7 +145,7 @@ interface Category {
 }
 ```
 
-### Tag (标签)
+### Tag
 
 ```typescript
 interface Tag {
