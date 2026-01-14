@@ -193,9 +193,9 @@ interface Tag {
 
 ## Browser Compatibility
 
-- Chrome/Edge (最新版本)
-- Firefox (最新版本)
-- Safari (最新版本)
+- Chrome/Edge (latest)
+- Firefox (latest)
+- Safari (latest)
 
 ## 开发计划
 
