@@ -36,28 +36,6 @@ This project is not intended as a research prototype or a production system.
 
 ## 项目结构
 
-```
-CogniLink/
-├── src/
-│   ├── components/       # React 组件
-│   │   ├── bookmarks/   # 书签相关组件
-│   │   ├── categories/  # 分类相关组件
-│   │   ├── tags/        # 标签相关组件
-│   │   ├── search/      # 搜索相关组件
-│   │   ├── filters/     # 筛选相关组件
-│   │   ├── layout/      # 布局组件
-│   │   └── ui/          # UI 基础组件
-│   ├── contexts/        # React Context
-│   ├── db/              # IndexedDB 数据库管理
-│   ├── services/        # 业务逻辑服务
-│   ├── types/           # TypeScript 类型定义
-│   ├── utils/           # 工具函数
-│   ├── App.tsx          # 主应用组件
-│   └── main.tsx         # 应用入口
-├── package.json
-├── tsconfig.json
-└── vite.config.ts
-```
 
 ```
 CogniLink/
