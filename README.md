@@ -19,12 +19,12 @@ This project is not intended as a research prototype or a production system.
 
 - 📚 **Intelligent Bookmark Management** - Add, edit, delete, and organize bookmarks
 - 🔍 **Full-Text Search** - High-performance full-text search via a custom inverted index
-- 🏷️ **标签系统** - Categorize and organize bookmarks with tags
-- 📁 **分类管理** - Create and manage bookmark categories
-- ⭐ **收藏功能** - Mark and filter favorite bookmarks
-- 📦 **归档功能** - Archive bookmarks that are no longer needed
-- 💾 **客户端存储** - All data is stored in the browser via IndexedDB
-- 🎨 **现代化UI** - A clean, responsive user interface
+- 🏷️ **Tag System** - Categorize and organize bookmarks with tags
+- 📁 **Category Management** - Create and manage bookmark categories
+- ⭐ **Favorites** - Mark and filter favorite bookmarks
+- 📦 **Archiving** - Archive bookmarks that are no longer needed
+- 💾 **Client-Side Storage** - All data is stored in the browser via IndexedDB
+- 🎨 **Modern UI** - A clean, responsive user interface
 
 ## Tech Stack
 
