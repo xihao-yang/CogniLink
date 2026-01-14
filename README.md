@@ -167,31 +167,31 @@ interface Tag {
 3. Optional: add description, notes, category, and tags
 4. Click “Add” to save
 
-### 搜索书签
+### Searching Bookmarks
 
-1. 在顶部搜索栏输入关键词
-2. 系统会自动搜索标题、描述、备注、URL 和标签
-3. 搜索结果按相关性排序
+1. Enter keywords in the top search bar
+2. The system searches across title, description, notes, URL, and tags automatically
+3. Results are ranked by relevance
 
-### 管理分类
+### Managing Categories
 
-1. 在侧边栏点击"分类"标签
-2. 点击"添加分类"创建新分类
-3. 点击分类名称筛选该分类下的书签
+1. Click the "Categories" tab in the sidebar
+2. Click "Add Category" to create a new category
+3. Click a category name to filter bookmarks under that category
 
-### 使用标签
+### Using Tags
 
-1. 在添加/编辑书签时输入标签
-2. 在侧边栏点击"标签"查看所有标签
-3. 点击标签筛选包含该标签的书签
+1. Enter tags when adding/editing a bookmark
+2. Click "Tags" in the sidebar to view all tags
+3. Click a tag to filter bookmarks that contain it
 
-### 收藏和归档
+### Favorites and Archiving
 
-- 点击书签卡片上的星标收藏书签
-- 在书签详情页面可以归档书签
-- 使用筛选面板快速查看收藏或归档的书签
+- Click the star icon on a bookmark card to favorite it
+- Archive a bookmark from the bookmark details page
+- Use the filter panel to quickly view favorited or archived bookmarks
 
-## 浏览器支持
+## Browser Compatibility
 
 - Chrome/Edge (最新版本)
 - Firefox (最新版本)
@@ -206,11 +206,11 @@ interface Tag {
 - [ ] 键盘快捷键
 - [ ] 书签分享功能
 
-## 许可证
+## License
 
 MIT License
 
-## 作者
+## Author
 
 Xihao Yang
 
