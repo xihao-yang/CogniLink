@@ -15,7 +15,7 @@ This repository is intended for **educational purposes only**.
 
 This project is not intended as a research prototype or a production system.
 
-## 功能特性
+## Features
 
 - 📚 **Intelligent Bookmark Management** - Add, edit, delete, and organize bookmarks
 - 🔍 **Full-Text Search** - High-performance full-text search via a custom inverted index
@@ -34,7 +34,7 @@ This project is not intended as a research prototype or a production system.
 - **Vite** - Build tool and development server
 - **Custom Search Index** - Inverted index–based full-text search implementation
 
-## 项目结构
+## Project Structure
 
 
 ```
@@ -90,7 +90,7 @@ npm run preview
 
 ## Core Implementation
 
-### 1. IndexedDB 数据管理
+### 1. IndexedDB Data Management
 
 - Database schema design
 - Asynchronous transaction handling
@@ -106,7 +106,7 @@ npm run preview
 - Multi-field search
 
 ### 3. React Component Architecture
-- 25+ functional components25+ 功能组件
+- 25+ functional components25+
 - State management via Context API
 - Custom Hooks
 - Responsive design
