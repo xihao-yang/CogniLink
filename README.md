@@ -59,6 +59,29 @@ CogniLink/
 └── vite.config.ts
 ```
 
+```
+CogniLink/
+├── src/
+│   ├── components/        # React components
+│   │   ├── bookmarks/     # Bookmark-related components
+│   │   ├── categories/    # Category-related components
+│   │   ├── tags/          # Tag-related components
+│   │   ├── search/        # Search-related components
+│   │   ├── filters/       # Filtering components
+│   │   ├── layout/        # Layout components
+│   │   └── ui/            # Shared UI primitives/components
+│   ├── contexts/          # React Context
+│   ├── db/                # IndexedDB management layer
+│   ├── services/          # Business logic services
+│   ├── types/             # TypeScript type definitions
+│   ├── utils/             # Utility functions
+│   ├── App.tsx            # Main application component
+│   └── main.tsx           # Application entry point
+├── package.json
+├── tsconfig.json
+└── vite.config.ts
+```
+
 ## Installation and Running
 
 ### Install Dependencies
