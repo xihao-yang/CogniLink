@@ -216,5 +216,5 @@ Xihao Yang
 
 ---
 
-**注意**: 这是一个纯客户端应用，所有数据都存储在浏览器的 IndexedDB 中。清除浏览器数据将导致所有书签丢失，请定期导出数据备份。
+** Caution**:  This is a purely client-side application; all data is stored within the browser's IndexedDB. Clearing your browser data will result in the loss of all bookmarks. Please export your data regularly to maintain backups.
 
