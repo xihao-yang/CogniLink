@@ -197,7 +197,7 @@ interface Tag {
 - Firefox (latest)
 - Safari (latest)
 
-## 开发计划
+## Develop Plans
 
 - [ ] 数据导入/导出功能
 - [ ] 书签批量操作
