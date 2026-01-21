@@ -197,15 +197,6 @@ interface Tag {
 - Firefox (latest)
 - Safari (latest)
 
-## Develop Plans
-
-- [ ] 数据导入/导出功能
-- [ ] 书签批量操作
-- [ ] 更高级的搜索选项
-- [ ] 主题切换
-- [ ] 键盘快捷键
-- [ ] 书签分享功能
-
 ## License
 
 MIT License
