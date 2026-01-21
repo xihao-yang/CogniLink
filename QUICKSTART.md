@@ -45,30 +45,30 @@ npm run preview
    - **标签**（可选）：添加标签（按回车添加）
 3. 点击"添加"保存
 
-### 搜索书签
+### Search Bookmarks
 
-1. 在顶部搜索栏输入关键词
-2. 系统会自动搜索：
-   - 标题
-   - 描述
-   - 备注
+1. Enter keywords in the top search bar.
+2. The system automatically searches:
+   - Title
+   - Description
+   - Notes
    - URL
-   - 标签
-3. 搜索结果按相关性排序
+   - Tags
+3. Results are sorted by relevance.
 
-### 管理分类
+### Manage Categories
 
-1. 在侧边栏点击"分类"标签
-2. 点击"添加分类"创建新分类
-3. 设置分类名称、描述、颜色和图标
-4. 点击分类名称筛选该分类下的书签
+1. Click “Categories” in the sidebar.
+2. Click “Add Category” to create a new category.
+3. Set the category name, description, color, and icon.
+4. Click a category name to filter bookmarks within that category.
 
-### 使用标签
+### Use Tags
 
-1. 在添加/编辑书签时输入标签
-2. 在侧边栏点击"标签"查看所有标签
-3. 点击标签筛选包含该标签的书签
-4. 标签按使用频率排序
+1. Enter tags when adding or editing a bookmark.
+2. Click “Tags” in the sidebar to view all tags.
+3. Click a tag to filter bookmarks containing that tag.
+4. Tags are sorted by usage frequency.
 
 ### Favorites and Archive
 
