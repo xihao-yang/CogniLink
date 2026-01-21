@@ -37,13 +37,13 @@ npm run preview
 
 1. Click the “Add Bookmark” button in the top-right corner.
 2. Fill in the bookmark information:：
-   - **标题**（必填）：书签的标题
-   - **URL**（必填）：书签的网址
-   - **描述**（可选）：书签的描述
-   - **备注**（可选）：个人备注
-   - **分类**（可选）：选择或创建分类
-   - **标签**（可选）：添加标签（按回车添加）
-3. 点击"添加"保存
+   - **Title**(required)：Bookmark title
+   - **URL**(required)：Website address
+   - **Description** (optional)：Bookmark description
+   - **Notes** (optional)：Personal notes
+   - **Category** (optional)：Select or create a category
+   - **Tags** (optional)）：Add tags (press Enter to add)
+3. Click “Add” to save.
 
 ### Search Bookmarks
 
