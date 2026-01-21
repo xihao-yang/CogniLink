@@ -95,27 +95,27 @@ All data is stored locally in the browser using IndexedDB:
 - **Version**: 1
 - **Object stores**: bookmarks, categories, tags
 
-## 注意事项
+## Notes
 
-1. **数据备份**：定期导出数据备份，清除浏览器数据会导致所有书签丢失
-2. **浏览器支持**：建议使用最新版本的 Chrome、Firefox 或 Safari
-3. **数据迁移**：未来版本升级时，数据迁移功能会自动处理
+1. **Data backup:**：Regularly export your data. Clearing browser data will permanently delete all bookmarks.
+2. **Browser support**：Latest versions of Chrome, Firefox, or Safari are recommended.
+3. **Data migration**：Future version upgrades will handle data migration automatically.
 
-## 故障排除
+## Troubleshooting
 
-### 问题：无法打开数据库
+### Issue: Unable to open the database
 
-**解决方案**：
-- 检查浏览器是否支持 IndexedDB
-- 清除浏览器缓存后重试
-- 检查浏览器控制台错误信息
+**Solutions:**：
+- Check whether the browser supports IndexedDB.
+- Clear the browser cache and try again.
+- Check error messages in the browser console.
 
-### 问题：搜索无结果
+### Issue: No search results
 
-**解决方案**：
-- 检查搜索关键词是否正确
-- 尝试使用不同的关键词
-- 检查书签是否已正确添加
+**Solutions**：
+- Verify that the search keywords are correct.
+- Try different keywords.
+- Check whether the bookmarks were added successfully.
 
 ### Issue: Unable to save bookmarks
 
