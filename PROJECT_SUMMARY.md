@@ -178,7 +178,6 @@ CogniLink/
 3. ✅ Search result sorting
 4. ✅ Tag usage statistics
 5. ✅ Responsive design
-6. ✅ Data import/export framework
 
 ## Browser Support
 
