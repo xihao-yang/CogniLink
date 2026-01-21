@@ -1,42 +1,42 @@
-# CogniLink 快速启动指南
+# CogniLink Quick Start Guide
 
-## 安装步骤
+## Installation
 
-### 1. 安装依赖
+### 1. Install dependencies
 
 ```bash
 cd CogniLink
 npm install
 ```
 
-### 2. 启动开发服务器
+### 2. Start the development server
 
 ```bash
 npm run dev
 ```
 
-应用将在 http://localhost:5173 启动
+The application will start at: http://localhost:5173
 
-### 3. 构建生产版本
+### 3. Build the production version
 
 ```bash
 npm run build
 ```
 
-构建后的文件将在 `dist` 目录中
+The built files will be generated in the `dist` directory.
 
-### 4. 预览生产版本
+### 4. Preview the production build
 
 ```bash
 npm run preview
 ```
 
-## 使用指南
+## User Guide
 
-### 添加书签
+### Add a Bookmark
 
-1. 点击右上角"添加书签"按钮
-2. 填写书签信息：
+1. Click the “Add Bookmark” button in the top-right corner.
+2. Fill in the bookmark information:：
    - **标题**（必填）：书签的标题
    - **URL**（必填）：书签的网址
    - **描述**（可选）：书签的描述
@@ -117,24 +117,24 @@ npm run preview
 - 尝试使用不同的关键词
 - 检查书签是否已正确添加
 
-### 问题：书签无法保存
+### Issue: Unable to save bookmarks
 
-**解决方案**：
-- 检查标题和URL是否已填写
-- 检查URL格式是否正确
-- 查看浏览器控制台错误信息
+**Solutions:**：
+- Ensure the title and URL are filled in.
+- Verify that the URL format is correct.
+- Check the browser console for error messages.
 
-## 技术支持
+## Technical Support
 
-如有问题，请查看：
-- README.md - 完整文档
-- PROJECT_SUMMARY.md - 项目总结
-- 浏览器控制台 - 错误信息
+For more information, refer to:：
+- README.md - Full documentation
+- PROJECT_SUMMARY.md - Project overview
+- 浏览器控制台 - Error messages
 
-## 开发信息
+## Development Information
 
-- **技术栈**: React 18+, TypeScript, IndexedDB, Vite
-- **组件数量**: 30+ 个
-- **代码行数**: 约 4,500+ 行
-- **项目状态**: 已完成核心功能开发
+- **Tech stack**: React 18+, TypeScript, IndexedDB, Vite
+- **Number of components**: 30+
+- **Lines of code**: ~4,500+
+- **Project status**: Core features completed
 
