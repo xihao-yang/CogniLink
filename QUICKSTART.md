@@ -70,11 +70,11 @@ npm run preview
 3. 点击标签筛选包含该标签的书签
 4. 标签按使用频率排序
 
-### 收藏和归档
+### Favorites and Archive
 
-- **收藏**：点击书签卡片上的星标收藏书签
-- **归档**：在书签详情页面点击"归档"按钮
-- **筛选**：使用筛选面板快速查看收藏或归档的书签
+- **Favorite**：Click the star icon on a bookmark card.
+- **Archive**：Click the “Archive” button on the bookmark detail page.
+- **Filter**：Use the filter panel to quickly view favorited or archived bookmarks.
 
 ### Edit a Bookmark
 
@@ -83,7 +83,7 @@ npm run preview
 3. Modify the bookmark information.
 4. Click “Update” to save.
 
-### 删除书签
+### Delete a Bookmark
 
 1. Click “Delete” on the bookmark detail page.
 2. Confirm the deletion.
