@@ -207,5 +207,5 @@ Xihao Yang
 
 ---
 
-**Caution**:  This is a purely client-side application; all data is stored within the browser's IndexedDB. Clearing your browser data will result in the loss of all bookmarks. Please export your data regularly to maintain backups.
+**⚠️⚠️Caution⚠️⚠️**:  This is a purely client-side application; all data is stored within the browser's IndexedDB. Clearing your browser data will result in the loss of all bookmarks. Please export your data regularly to maintain backups.
 
