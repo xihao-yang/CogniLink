@@ -88,12 +88,12 @@ npm run preview
 1. 在书签详情页面点击"删除"按钮
 2. 确认删除操作
 
-## 数据存储
+## Data Storage
 
-所有数据都存储在浏览器的 IndexedDB 中：
-- **数据库名称**: CogniLinkDB
-- **版本**: 1
-- **对象存储**: bookmarks, categories, tags
+All data is stored locally in the browser using IndexedDB:
+- **Database name**: CogniLinkDB
+- **Version**: 1
+- **Object stores**: bookmarks, categories, tags
 
 ## 注意事项
 
