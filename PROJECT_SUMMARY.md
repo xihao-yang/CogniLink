@@ -13,7 +13,6 @@ CogniLink is an intelligent client-side bookmark and knowledge management system
 - ✅ Three object stores: bookmarks, categories, tags
 - ✅ Complete CRUD operations
 - ✅ Data import/export functionality
-- ✅ Data migration support framework
 
 #### Type Definitions (`src/types/index.ts`)
 - ✅ Bookmark interface
