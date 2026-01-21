@@ -76,17 +76,17 @@ npm run preview
 - **归档**：在书签详情页面点击"归档"按钮
 - **筛选**：使用筛选面板快速查看收藏或归档的书签
 
-### 编辑书签
+### Edit a Bookmark
 
-1. 点击书签卡片查看详情
-2. 点击"编辑"按钮
-3. 修改书签信息
-4. 点击"更新"保存
+1. Click a bookmark card to view details.
+2. Click “Edit.”
+3. Modify the bookmark information.
+4. Click “Update” to save.
 
 ### 删除书签
 
-1. 在书签详情页面点击"删除"按钮
-2. 确认删除操作
+1. Click “Delete” on the bookmark detail page.
+2. Confirm the deletion.
 
 ## Data Storage
 
